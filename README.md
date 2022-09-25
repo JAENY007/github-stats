@@ -6,7 +6,6 @@
 ![](https://raw.githubusercontent.com/JAENY007/github-stats/output/generated/languages.svg)
 
 
-
 <br/>
 
 > NOTE: This repository is my extension of [jstrieb/github-stats](https://github.com/jstrieb/github-stats) And [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent).
